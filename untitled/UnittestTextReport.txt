@@ -1,0 +1,143 @@
+test_divide (test_matchfunc.TestMathFunc)
+Test method divide(a, b) ... FAIL
+test_multi (test_matchfunc.TestMathFunc)
+Test method multi(a, b) ... ok
+test_add (test_matchfunc.TestMathFunc) ... ok
+test_minus (test_matchfunc.TestMathFunc) ... ok
+
+======================================================================
+FAIL: test_divide (test_matchfunc.TestMathFunc)
+Test method divide(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/name/Desktop/untitled/test_matchfunc.py", line 20, in test_divide
+    self.assertEqual(2.5, divide(6, 2))
+AssertionError: 2.5 != 3.0
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+test_divide (test_matchfunc.TestMathFunc)
+Test method divide(a, b) ... FAIL
+test_multi (test_matchfunc.TestMathFunc)
+Test method multi(a, b) ... ok
+test_add (test_matchfunc.TestMathFunc) ... ok
+test_minus (test_matchfunc.TestMathFunc) ... ok
+
+======================================================================
+FAIL: test_divide (test_matchfunc.TestMathFunc)
+Test method divide(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/name/Desktop/untitled/test_matchfunc.py", line 25, in test_divide
+    self.assertEqual(2.5, divide(6, 2))
+AssertionError: 2.5 != 3.0
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+FAILED (failures=1)
+F...
+======================================================================
+FAIL: test_divide (test_matchfunc.TestMathFunc)
+Test method divide(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/name/Desktop/untitled/test_matchfunc.py", line 25, in test_divide
+    self.assertEqual(2.5, divide(6, 2))
+AssertionError: 2.5 != 3.0
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+FAILED (failures=1)
+F...
+======================================================================
+FAIL: test_divide (test_matchfunc.TestMathFunc)
+Test method divide(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/name/Desktop/untitled/test_matchfunc.py", line 25, in test_divide
+    self.assertEqual(2.5, divide(6, 2))
+AssertionError: 2.5 != 3.0
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+F...
+======================================================================
+FAIL: test_divide (test_matchfunc.TestMathFunc)
+Test method divide(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/name/Desktop/untitled/test_matchfunc.py", line 28, in test_divide
+    self.assertEqual(2.5, divide(6, 2))
+AssertionError: 2.5 != 3.0
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+FAILED (failures=1)
+F...
+======================================================================
+FAIL: test_divide (test_matchfunc.TestMathFunc)
+Test method divide(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/name/Desktop/untitled/test_matchfunc.py", line 28, in test_divide
+    self.assertEqual(2.5, divide(6, 2))
+AssertionError: 2.5 != 3.0
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+F...
+======================================================================
+FAIL: test_divide (test_matchfunc.TestMathFunc)
+Test method divide(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/name/Desktop/untitled/test_matchfunc.py", line 28, in test_divide
+    self.assertEqual(2.5, divide(6, 2))
+AssertionError: 2.5 != 3.0
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+test_divide (test_matchfunc.TestMathFunc)
+Test method divide(a, b) ... skipped "I don't want to run this case."
+test_multi (test_matchfunc.TestMathFunc)
+Test method multi(a, b) ... ok
+test_add (test_matchfunc.TestMathFunc) ... ok
+test_minus (test_matchfunc.TestMathFunc) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK (skipped=1)
+test_divide (test_matchfunc.TestMathFunc)
+Test method divide(a, b) ... skipped "I don't want to run this case."
+test_multi (test_matchfunc.TestMathFunc)
+Test method multi(a, b) ... ok
+test_add (test_matchfunc.TestMathFunc) ... ok
+test_minus (test_matchfunc.TestMathFunc) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK (skipped=1)
+test_divide (test_matchfunc.TestMathFunc)
+Test method divide(a, b) ... skipped "I don't want to run this case."
+test_multi (test_matchfunc.TestMathFunc)
+Test method multi(a, b) ... ok
+test_add (test_matchfunc.TestMathFunc) ... ok
+test_minus (test_matchfunc.TestMathFunc) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK (skipped=1)
