@@ -8,7 +8,8 @@ if __name__  == '__main__':
     tests = [TestMathFunc("test_divide"),TestMathFunc("test_multi"),TestMathFunc("test_add"),TestMathFunc("test_minus")]
     # for i in tests:
     #     suite.addTest(i)
-    suite.addTests(tests)
+ 
+   suite.addTests(tests)
     with open('test.html','wb') as f:
         runner = HTMLTestRunner(output='/Users/name/Desktop/untitled')
         runner.run(suite)
