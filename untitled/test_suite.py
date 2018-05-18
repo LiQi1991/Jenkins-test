@@ -10,6 +10,6 @@ if __name__  == '__main__':
     #     suite.addTest(i)
  
    suite.addTests(tests)
-    with open('test.html','wb') as f:
+   with open('test.html','wb') as f:
         runner = HTMLTestRunner(output='/Users/name/jenk/Jenkins-test/untitled')
         runner.run(suite)
